@@ -5,6 +5,8 @@
  */
 package javaapplication66;
 
+import javax.swing.JOptionPane;
+
 /**
  *
  * @author lab-205
@@ -16,6 +18,8 @@ public class JavaApplication66 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
+        JOptionPane.showMessageDialog(null, "Hola mundo :v");
     }
     
 }
